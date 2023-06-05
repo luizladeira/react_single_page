@@ -14,7 +14,7 @@ Instalar o node js
 Instalar o npx no projeto
 
 ## Criar o projeto
-npx create-react-app organo /. 
+npx create-react-app ./
 
 Obs.: Esse comando cria toda a estrutura do react js com a estruturação do css, js, html entre outros dentro da pasta raiz.
 
