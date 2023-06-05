@@ -7,7 +7,7 @@ Criar um site Single Page com react js
 ALURA - [Curso de React: desenvolvendo em React Router com JavaScript](https://cursos.alura.com.br/course/React-desenvolvendo-react-router-javaScript)
 
 ## Layout FIGMA
-(Layout do Curso)[https://www.figma.com/file/nDTrIQxTu6aldQG0o0iAbj/Ol%C3%A1%2C-Mundo!---Projeto-React%3A-router?node-id=38%3A716]
+[Layout do Curso](https://www.figma.com/file/nDTrIQxTu6aldQG0o0iAbj/Ol%C3%A1%2C-Mundo!---Projeto-React%3A-router?node-id=38%3A716)
 
 ## Instalação e preparação do ambiente base utilizando react js
 Instalar o node js
