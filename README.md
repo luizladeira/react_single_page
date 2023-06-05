@@ -1,4 +1,4 @@
-# Projeto Organograma ALURA com REACT JS
+# Projeto Site Single Page - ALURA com REACT JS
 
 ## Sobre o projeto
 Criar um site Single Page com react js
