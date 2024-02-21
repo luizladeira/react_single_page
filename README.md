@@ -18,6 +18,9 @@ npx create-react-app ./
 
 Obs.: Esse comando cria toda a estrutura do react js com a estruturação do css, js, html entre outros dentro da pasta raiz.
 
+
+## Instalando o react route
+npm install react-router-dom@6
+
 ## Rodando o projeto
 npm start
-
