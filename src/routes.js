@@ -2,7 +2,7 @@ import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Inicio from "./paginas/inicio";
 import SobreMim from "./paginas/SobreMim";
 import Error404 from "./paginas/404";
-import Menu from "./componentes/menu";
+import Menu from "./componentes/Menu";
 
 function AppRoutes() { 
   return (
