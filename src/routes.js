@@ -4,7 +4,7 @@ import SobreMim from "./paginas/SobreMim";
 import Error404 from "./paginas/404";
 import Menu from "./componentes/menu";
 
-function App() { 
+function AppRoutes() { 
   return (
       <BrowserRouter>
         <Menu />
@@ -17,4 +17,4 @@ function App() {
   );
 }
  
-export default App;
+export default AppRoutes;
